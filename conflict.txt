@@ -1,1 +1,1 @@
-learning merge conflict in git hub
+learning merge conflict in git master
