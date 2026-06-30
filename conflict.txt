@@ -1,1 +1,2 @@
-learning merge conflict in git master
+learning merge conflict in git cook
+
